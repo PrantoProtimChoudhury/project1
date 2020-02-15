@@ -1,0 +1,33 @@
+body{
+	background: #efedf3; 
+}
+div{
+	width: 525px;
+	margin-left: auto;
+	margin-right: auto;
+	background: whitesmoke;
+	padding: 35px;
+}
+img{
+	max-width: 50%
+}
+h1{
+	text-align: left;
+	font-size: 30px;
+	margin-top: 0px;
+}
+span{
+	
+text-transform: uppercase;
+color: red;
+	
+text-shadow: 5px 5px 10px darkslateblue;
+}
+p{	
+font-size: 25px;
+color: black;
+line-height: 1.5;
+}
+.re{
+color: blue;
+}
